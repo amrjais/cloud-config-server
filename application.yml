@@ -1,6 +1,5 @@
-uri: 
-   dopayment: http://PAYMENT-SERVICE/payment/doPayment
-   addorder: http://ORDER-SERVICE/order/addOrder
+dopayment: http://PAYMENT-SERVICE/payment/doPayment
+addorder: http://ORDER-SERVICE/order/addOrder
 
 eureka:
       client:
