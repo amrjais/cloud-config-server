@@ -7,6 +7,5 @@ eureka:
       instance:
           hostname: localhost
              
-uri:
-   dopayment: http://PAYMENT-SERVICE/payment/doPayment
-   addorder: http://ORDER-SERVICE/order/addOrder
+uri.dopayment: http://PAYMENT-SERVICE/payment/doPayment
+uri.addorder: http://ORDER-SERVICE/order/addOrder
