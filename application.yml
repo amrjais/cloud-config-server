@@ -1,6 +1,8 @@
 dopayment: http://PAYMENT-SERVICE/payment/doPayment
 addorder: http://ORDER-SERVICE/order/addOrder
 
+test: value from github
+
 eureka:
       client:
            register-with-eureka: true
